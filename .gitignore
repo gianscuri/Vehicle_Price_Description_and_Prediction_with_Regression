@@ -1,0 +1,37 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+Info_e_Simulazione_Progetto/
+
+# Other files and folders
+.settings/
+
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+.Rproj.user
+.Rhistory
+.RData
+car.HTML
+.Rproj.user/shared/notebooks/paths
+car_files/figure-latex/pressure-1.pdf
+.Rproj.user/shared/notebooks/paths
+.Rproj.user/BD6D6FF3/sources/per/t/443A69BB
+.Rproj.user/BD6D6FF3/sources/per/t/443A69BB
+.Rproj.user/BD6D6FF3/sources/per/t/443A69BB-contents
+.Rproj.user/BD6D6FF3/sources/per/t/443A69BB
+.Rproj.user/BD6D6FF3/sources/per/t/443A69BB-contents
+*.pper
+.Rproj.user/BD6D6FF3/pcs/windowlayoutstate.pper
+.Rproj.user/BD6D6FF3/pcs/source-pane.pper
+.Rhistory.Rhistory
+.RData
